@@ -1,10 +1,10 @@
-Human Resource Management System (HRMS)
+People Operations Platform
 
-Name: Human Resource Management System
+Name: People Operations Platform
 
 Description:
 
-The Human Resource Management System (HRMS) is a comprehensive software solution designed to streamline and automate various HR processes within an organization. It provides functionalities for managing employee information, leaves, education, experience, goals, payslips, documents, training, and more. This system aims to enhance efficiency, accuracy, and transparency in HR operations.
+People Operations Platform is a comprehensive software solution designed to streamline and automate various HR processes within an organization. It provides functionalities for managing employee information, leaves, education, experience, goals, payslips, documents, training, and more. This system aims to enhance efficiency, accuracy, and transparency in HR operations.
 
 ERD:
 
@@ -12,7 +12,7 @@ ERD:
 
 MVP (Minimum Viable Product):
 
-The MVP of the Human Resource Management System will include the following core features derived from user stories:
+The MVP of the People Operations Platform will include the following core features derived from user stories:
 
     Employee Management:
         Add and Update Profile
